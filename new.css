@@ -1,0 +1,136 @@
+#curve_chart {
+    margin-left: 190px;
+    margin-top: -700px;
+    border-style: solid grey;
+    width: 725px;
+    height: 200px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+#regions_div {
+    width: 400px;
+    height: 300px;
+    margin-left: 970px;
+    border-style: solid #949494;
+    margin-top: -203px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.tekst {
+    margin-left: 500px;
+    font-size: 50px;
+}
+
+#myChart {
+    width: 400px;
+    height: 300px;
+
+    margin-left: 970px;
+    border-style: solid grey;
+    margin-top: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+#donutchart {
+    width: 350px;
+    height: 400px;
+    margin-left: 570px;
+    border-style: solid grey;
+    margin-top: -400px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+#piechart_3d {
+    width: 350px;
+    height: 400px;
+    margin-left: 190px;
+    border-style: solid grey;
+    margin-top: -400px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+
+
+
+body {
+    background-color: white;
+    margin: 10px;
+}
+
+p {
+    margin-bottom: -80px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    font-size: xx-large;
+    font-family: "Roboto,Helvetica Neue,sans-serif";
+}
+
+.i {
+    font-family: "Roboto,Helvetica Neue,sans-serif";
+    font-size: x-large;
+    color: black;
+}
+
+.news:hover {
+    background-color: white;
+}
+
+.contact:hover {
+    background-color: white;
+}
+
+.about:hover {
+    background-color: white;
+}
+
+.news {
+    font-size: 40px;
+    color: black;
+}
+
+.contact {
+    font-size: 25px;
+    color: black;
+
+}
+
+.about {
+    font-size: 25px;
+    color: black;
+}
+.nav{
+    background-color: rgb(238,238,238);
+}
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+.styled-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+.styled-table tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+}

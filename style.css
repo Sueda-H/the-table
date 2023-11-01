@@ -1,0 +1,38 @@
+.navbar {
+    display: flex;
+    background-color: #c1baab;
+    height: 100px;
+    margin: 0px;
+    font-family: BM Plex Mono, Menlo, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier, "monospace";
+    justify-content: space-between;
+}
+
+
+
+body {
+    background-color: pink;
+    padding: opx;
+}
+
+.donker {
+    font-weight: bold;
+}
+
+.home {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin: 10px;
+    margin-left: 10px;
+    gap: 40px;
+}
+
+.midden {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin-left: 400px;
+
+}

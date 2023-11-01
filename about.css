@@ -1,0 +1,117 @@
+#logo {
+    width: 180px;
+    position: absolute;
+    top: 1px;
+    font-size: 18px;
+}
+
+.een {
+    width: 50px;
+    padding: 15px;
+    margin-left: 500px;
+}
+
+.twee {
+    width: 50px;
+    height: 50px;
+    margin-left: 200px;
+
+}
+
+.drie {
+    width: 50px;
+    height: 50px;
+    margin-left: 200px;
+}
+
+.navbar {
+    background-color: #a0a79f;
+    padding-top: 45px;
+    width: 100%;
+    top: 0.1px;
+    position: absolute;
+}
+
+.about {
+    color: black;
+    font-size: 18px;
+    justify-content: space-evenly;
+}
+
+.klanten {
+    color: black;
+    font-size: 18px;
+    justify-content: space-evenly;
+}
+
+.collectie {
+    color: black;
+    font-size: 18px;
+}
+
+.sidebar {
+    height: 100%;
+    width: 180px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding-top: 40px;
+    background-color: #a0a79f;
+}
+
+#banner {
+    width: 1270px;
+    height: 400px;
+    margin-top: 100px;
+    margin-left: 170px;
+}
+
+#banner {
+    opacity: 2;
+}
+
+.kop {
+    color: #a0a79f;
+    margin-left: 600px;
+    font-family: Andale Mono, monospace;
+    font-weight: lighter;
+}
+
+.tekst {
+    margin-left: 170px;
+    justify-content: center;
+    text-align: center;
+}
+
+.but1{
+    background-color: #87887d;
+    border: none;
+    color: white;
+    font-family: Andale Mono, monospace;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 400px;
+    height: 60px;
+    width: 140px;
+}
+.but2{
+    background-color: #87887d;
+    border: none;
+    color: white;
+    font-family: Andale Mono, monospace;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 300px;
+    height: 60px;
+    width: 140px;
+}
